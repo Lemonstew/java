@@ -11,8 +11,8 @@ public class Example10 {
     public static void main(String[] args) throws FileNotFoundException {
         Scanner scanner = new Scanner(System.in);
         String name;
-        
-        BufferedOutputStream bos = new BufferedOutputStream();
+
+//        BufferedOutputStream bos = new BufferedOutputStream();
 
 
     }
